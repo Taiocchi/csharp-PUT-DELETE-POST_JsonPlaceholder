@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\ClientConsoleRESTsample.csproj": {}
+    "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\ClientConsoleRESTsample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\ClientConsoleRESTsample.csproj": {
+    "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\ClientConsoleRESTsample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\ClientConsoleRESTsample.csproj",
+        "projectUniqueName": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\ClientConsoleRESTsample.csproj",
         "projectName": "ClientConsoleRESTsample",
-        "projectPath": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\ClientConsoleRESTsample.csproj",
+        "projectPath": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\ClientConsoleRESTsample.csproj",
         "packagesPath": "C:\\Users\\taiocchi.21206\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\obj\\",
+        "outputPath": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

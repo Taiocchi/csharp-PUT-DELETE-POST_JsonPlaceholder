@@ -46,9 +46,9 @@ public class Program
         Console.WriteLine("Nota: JSONPlaceholder non persiste (id tipico: 101).\n");
 
         // UPDATE: PUT /Photos/1
-        Console.WriteLine("PUT /albums/1");
+        Console.WriteLine("PUT /Photos/1");
         var toUpdate = new Photos { AlbumId = 1, Id = 1, Title = "Foto aggiornata via PUT" };
-        var resPut = await http.PutAsJsonAsync("albums/1", toUpdate, JsonOut);
+        var resPut = await http.PutAsJsonAsync("Photos/1", toUpdate, JsonOut);
         resPut.EnsureSuccessStatusCode();
         Photos? updated = await resPut.Content.ReadFromJsonAsync<Photos>();
         Console.WriteLine(JsonSerializer.Serialize(updated, JsonOut));

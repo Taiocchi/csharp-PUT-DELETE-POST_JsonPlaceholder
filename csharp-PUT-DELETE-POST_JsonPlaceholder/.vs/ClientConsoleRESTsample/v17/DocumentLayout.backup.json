@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\",
+  "WorkspaceRootPath": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{077DCF8A-1B97-42F9-B325-1DF4BD07E70B}|ClientConsoleRESTsample.csproj|c:\\users\\taiocchi.21206\\desktop\\csharp-ws\\clientconsolerestsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{077DCF8A-1B97-42F9-B325-1DF4BD07E70B}|ClientConsoleRESTsample.csproj|c:\\users\\taiocchi.21206\\desktop\\info\\csharp-put-delete-post_jsonplaceholder\\csharp-put-delete-post_jsonplaceholder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{077DCF8A-1B97-42F9-B325-1DF4BD07E70B}|ClientConsoleRESTsample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\taiocchi.21206\\Desktop\\csharp-ws\\ClientConsoleRESTsample\\Program.cs",
+              "ToolTip": "C:\\Users\\taiocchi.21206\\Desktop\\Info\\csharp-PUT-DELETE-POST_JsonPlaceholder\\csharp-PUT-DELETE-POST_JsonPlaceholder\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwC8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T15:05:47.786Z",
               "EditorCaption": ""
